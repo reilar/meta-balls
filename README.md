@@ -1,4 +1,4 @@
-# MetaBalls
+# Metaballs
 
 Classic metaballs demo effect with distance fields in GLSL shader language.
 
